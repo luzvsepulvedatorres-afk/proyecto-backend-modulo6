@@ -2,3 +2,13 @@
 [2026-08-23T22:03:07.309Z] Método: GET - Ruta: /api/status
 [2026-08-23T22:37:38.430Z] Método: GET - Ruta: /api/status
 [2026-08-23T23:25:59.676Z] Método: GET - Ruta: /api/html
+[2026-09-03T18:38:01.814Z] Método: GET - Ruta: /favicon.ico
+[2026-09-03T19:42:05.952Z] Método: GET - Ruta: /usuarios
+[2026-09-03T19:46:58.223Z] Método: GET - Ruta: /.well-known/appspecific/com.chrome.devtools.json
+[2026-09-03T19:49:26.863Z] Método: GET - Ruta: /.well-known/appspecific/com.chrome.devtools.json
+[2026-09-03T20:10:06.724Z] Método: GET - Ruta: /api/status
+[2026-09-03T20:10:16.761Z] Método: GET - Ruta: /.well-known/appspecific/com.chrome.devtools.json
+[2026-09-03T20:21:13.171Z] Método: GET - Ruta: /api/status
+[2026-09-03T20:21:13.779Z] Método: GET - Ruta: /.well-known/appspecific/com.chrome.devtools.json
+[2026-09-03T20:23:43.683Z] Método: GET - Ruta: /api/status
+[2026-09-03T20:23:44.788Z] Método: GET - Ruta: /.well-known/appspecific/com.chrome.devtools.json
